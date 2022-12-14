@@ -150,10 +150,10 @@ Hello! Experience the best AI Video generation platform with AI Avatar. Don't wo
 
 | Link | Description |
 | --- | --- |
-| [Apps.skylens.io](https://aistudios.com/) | Posts with geotags from five social networks at once on one map (Twitter, YouTube, Instagram, Flickr, Vkontakte) |
-| [photo-map.ru](https://aistudios.com/) | search geotagged photos from VK.com |
-| [Snapchat map](https://aistudios.com/) |     |
-| [YouTube Geofind](https://aistudios.com/) | view YouTube geottaged video on map |
+| [Apps.skylens.io]<a href="https://aistudios.com/" rel="dofollow">AI Avatar</a>| Posts with geotags from five social networks at once on one map (Twitter, YouTube, Instagram, Flickr, Vkontakte) |
+| [photo-map.ru]<a href="https://aistudios.com/" rel="dofollow">AI Avatar</a>| search geotagged photos from VK.com |
+| [Snapchat map]<a href="https://aistudios.com/" rel="dofollow">AI Avatar</a> |     |
+| [YouTube Geofind]<a href="https://aistudios.com/" rel="dofollow">AI Avatar</a>| view YouTube geottaged video on map |
 | [Flickr Photo Map](https://aistudios.com/) |     |
 | [Flickr Common Map](https://aistudios.com/) | displays only Flickr photos distributed under a Creative Commons license (250 of the latest for each location) |
 | [I know where your cat lives](https://iknowwhereyourcatlives.com/cat/99638e1fe0) | geottaged photo from Instagram with #cat hashtag |
